@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #6B3CC9;
+    --secondary-color: #F28D35;
+    --Analogous-Color-1: #6A44F2;
+    --Analogous-Color-2: #1CBDDD;
+    --Triadic-Color-1: #52378C;
+    --Dark-Color: #78BF91, #4DCA79;
+    --Text-Color: #2F2F2F;
+    --Text-Color-Light: #545A75;
+    --Text-Color-Subtle: #9C9991;
+    --Accent-Color-wizard: #E2F2FE;
+    --Accent-Color-cuddyl: #FFF8E0;
+    --Error-color: #FF0335;
+    --Success-color: #5EB30B;
+    --Navigation-color: #FFFFFF;
+    --FAQ-color: #FAF8FF;
+}
